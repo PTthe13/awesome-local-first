@@ -174,6 +174,9 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [EchoTalk](https://alisolphp.github.io/EchoTalk/) – Privacy-first offline shadowing practice PWA. AI pronunciation feedback, local recordings, no account needed.
 - [KaChiKa](https://kachika.app/) – Local-first AI photo-to-flashcard app for language learners. Snap a photo of a real-world object and KaChiKa extracts vocabulary with example sentences. All images are processed and stored on-device — no upload. Uses spaced repetition for review scheduling. Available on [iOS](https://apps.apple.com/app/id6740193802) and [Android](https://play.google.com/store/apps/details?id=com.hugo.photoen).
 
+**Writing & Editing**
+- [Harper](https://writewithharper.com/) – Privacy-first, local grammar checker for prose.
+
 **Productivity & Collaboration**
 - [Excalidraw](https://excalidraw.com) – Collaborative drawing
 - [tldraw](https://tldraw.com) – Open-source infinite canvas whiteboard SDK
